@@ -1,0 +1,1001 @@
+first_name,last_name,age,height,weight,type,status,op2_level,inclusion_date
+Isabella,Moore,72,158.82,70.87,AFK,Active,-1.1,2024-08-22
+Grace,Rodriguez,63,171.26,66.49,ECC,Active,-1.25,2024-06-22
+Liam,Martin,55,175.59,53.39,AFK,Active,-0.59,2024-10-22
+Alice,Harris,30,175.94,70.57,LAM,Active,1.34,2024-09-22
+Mia,Harris,38,189.01,67.39,AFK,Not Active,-0.94,2024-10-22
+Peter,Moore,58,199.04,65.0,ECC,Active,-1.48,2024-09-22
+Charlie,Martin,71,198.19,103.24,LAM,Active,1.54,2024-05-22
+Charlie,Brown,49,162.59,60.11,,Active,-0.79,2024-07-22
+Emily,Jackson,62,192.34,49.85,,Active,0.19,2024-06-22
+Frank,Anderson,28,130.84,83.69,,Active,-1.43,2024-08-22
+Thomas,Wilson,55,172.38,83.27,LAM,Active,-0.89,2024-06-22
+Grace,Martin,57,157.06,70.19,,Active,1.17,2024-07-22
+Grace,Garcia,20,186.26,68.33,,Active,1.88,2024-09-22
+Sophia,Thompson,65,157.94,79.12,,Active,0.14,2024-09-22
+Kate,Williams,28,143.07,79.04,ECC,Active,0.19,2024-08-22
+Noah,Jackson,52,171.56,54.4,LAM,Active,1.49,2024-06-22
+Alice,Johnson,70,199.55,81.18,AFK,Active,0.26,2024-06-22
+Isabella,Harris,20,162.8,53.04,,Not Active,0.32,
+Jack,Williams,74,151.18,69.71,AFK,Active,-1.02,2024-07-22
+Peter,Smith,24,168.47,94.38,,Active,0.91,2024-06-22
+Bob,Jones,47,203.92,68.29,ECR,Active,1.58,
+Quinn,Thompson,79,194.36,72.62,LAM,Active,0.89,2024-08-22
+Charlie,Moore,70,153.04,56.96,AFK,Active,0.3,2024-10-22
+Kate,Martin,32,179.25,43.49,AFK,Active,-0.2,2024-09-22
+Henry,Smith,28,210.47,30.94,LAM,Active,-1.31,2024-07-22
+Noah,Harris,60,181.35,65.69,AFK,Active,-0.97,2024-08-22
+Emily,White,74,142.88,68.36,AFK,Transfering,1.2,
+Jack,Jones,30,168.66,57.62,ECC,Transfering,-1.47,2024-05-22
+Frank,Johnson,40,186.74,97.2,ECC,Not Active,-1.75,2024-05-22
+David,Thompson,72,154.56,59.1,AFK,Active,-0.31,2024-07-22
+Emily,Taylor,37,163.88,92.29,ECC,Active,0.55,2024-06-22
+Isabella,Davis,39,175.73,80.51,,Active,1.22,2024-07-22
+David,Davis,77,183.73,41.86,LAM,Not Active,-1.02,2024-06-22
+Thomas,Moore,30,179.87,82.82,ECR,Active,0.8,2024-10-22
+Olivia,Thompson,22,166.9,74.85,,Active,2.42,2024-06-22
+Liam,Harris,58,155.3,77.27,LAM,,-0.67,2024-05-22
+Isabella,Moore,68,141.94,78.07,AFK,Active,-0.06,2024-08-22
+Kate,Brown,53,175.66,113.47,ECR,Not Active,-0.28,2024-10-22
+Sophia,Miller,34,179.68,95.4,LAM,Transfering,1.13,2024-07-22
+Thomas,Martin,59,147.53,90.24,ECC,Not Active,-0.29,2024-07-22
+Charlie,Martinez,25,155.67,87.88,ECR,Active,1.28,2024-10-22
+Jack,White,62,191.09,81.34,,Active,0.28,2024-05-22
+Peter,Harris,72,196.53,73.35,,Active,1.22,2024-09-22
+Bob,Moore,51,166.68,53.69,LAM,Transfering,0.64,2024-09-22
+Sophia,Miller,22,150.09,76.83,AFK,Not Active,-0.1,2024-10-22
+Frank,Harris,61,173.43,72.15,AFK,Active,-0.3,2024-10-22
+Peter,Wilson,54,140.29,78.75,ECR,Not Active,0.47,
+Charlie,Thompson,31,160.74,51.58,,Not Active,-1.31,2024-10-22
+Peter,Moore,54,167.89,77.93,ECR,Transfering,0.4,2024-07-22
+Grace,Harris,63,119.4,68.73,ECR,Not Active,1.1,2024-06-22
+Frank,Brown,75,160.65,102.32,ECR,Active,-0.13,2024-10-22
+Noah,Thompson,23,209.5,83.39,AFK,Active,-1.43,2024-07-22
+Isabella,Garcia,50,187.45,60.83,LAM,Active,-0.68,2024-06-22
+David,Johnson,61,145.39,57.37,AFK,Active,2.03,2024-07-22
+David,Smith,77,172.06,39.5,LAM,Active,-0.8,
+Jack,Moore,28,193.08,84.66,AFK,Active,1.19,2024-10-22
+Emily,Brown,54,195.86,61.42,AFK,Active,1.12,2024-06-22
+Noah,Martinez,28,184.27,69.93,LAM,Active,0.81,2024-06-22
+Kate,Williams,50,183.46,75.66,AFK,Active,0.09,2024-07-22
+Quinn,Smith,47,206.31,72.26,AFK,Active,0.48,2024-06-22
+Alice,Martin,75,199.21,55.04,LAM,Active,-0.9,
+Bob,Smith,53,184.59,59.97,ECC,Active,-1.68,2024-09-22
+Grace,Moore,48,199.24,86.3,ECC,Active,0.62,2024-05-22
+Mia,Taylor,54,217.63,67.91,ECC,Active,0.13,2024-10-22
+Bob,Martinez,45,151.92,106.44,,Active,-0.32,2024-10-22
+Noah,Davis,76,171.46,72.97,LAM,Active,-0.98,2024-06-22
+Noah,Martinez,68,150.75,53.94,LAM,Transfering,-0.23,2024-06-22
+Liam,Moore,24,192.96,76.78,ECR,Active,1.48,2024-07-22
+Henry,Anderson,72,173.01,52.45,,Active,0.78,2024-10-22
+Emily,Johnson,30,167.87,79.4,LAM,Active,-1.12,2024-05-22
+Thomas,Martin,70,177.63,71.16,LAM,Active,0.19,2024-07-22
+Riley,Garcia,60,206.32,56.86,,Active,0.1,2024-08-22
+Grace,Williams,29,165.97,68.69,AFK,,1.47,2024-06-22
+Emily,Martin,38,186.42,40.79,ECC,Active,2.27,2024-09-22
+Kate,Miller,56,172.17,76.8,LAM,Active,-1.68,2024-06-22
+Grace,Thompson,59,153.93,89.1,AFK,Active,-0.01,2024-06-22
+Peter,Martinez,53,177.95,66.72,AFK,Not Active,-0.58,2024-07-22
+Charlie,Harris,33,170.18,94.67,AFK,Transfering,1.09,2024-05-22
+Frank,Martinez,54,161.12,87.42,,Not Active,0.74,2024-07-22
+Grace,Davis,70,128.94,98.05,LAM,Active,0.52,2024-10-22
+Grace,Martin,28,193.6,62.3,AFK,Active,0.96,2024-10-22
+Charlie,Moore,33,157.91,50.97,LAM,Not Active,1.17,2024-09-22
+Grace,Jones,51,153.35,74.12,ECR,Active,-1.15,2024-09-22
+Emily,Anderson,61,209.11,53.58,AFK,Not Active,0.17,2024-08-22
+Olivia,Thompson,42,163.86,63.91,AFK,Active,-1.43,2024-05-22
+Emily,Jackson,25,173.51,69.46,AFK,Transfering,0.99,2024-06-22
+Grace,Davis,58,174.07,76.35,ECC,Active,0.51,2024-05-22
+Isabella,Jackson,67,154.85,59.95,ECR,Active,-0.37,2024-07-22
+Quinn,Anderson,31,177.52,53.28,,Active,-0.45,2024-05-22
+Sophia,Martin,53,164.4,53.54,ECR,Active,0.14,2024-05-22
+Liam,Smith,40,178.88,82.59,,Active,-0.58,2024-07-22
+Liam,Jones,62,195.81,54.94,ECR,Active,1.81,2024-05-22
+Mia,Johnson,80,197.23,53.12,ECR,Not Active,-1.09,2024-09-22
+David,Wilson,54,111.48,83.55,LAM,Not Active,0.91,2024-09-22
+Thomas,Smith,50,180.94,52.61,LAM,Active,0.23,2024-09-22
+Emily,Taylor,22,154.63,76.58,,Active,0.12,2024-10-22
+Riley,Brown,77,153.15,84.63,ECC,Active,-0.21,2024-09-22
+Liam,Jones,47,152.26,91.67,AFK,Active,-0.47,2024-10-22
+Frank,Harris,58,152.0,45.79,ECR,Active,-0.4,2024-07-22
+Charlie,Williams,58,212.24,50.65,,Not Active,0.06,
+David,Anderson,44,161.89,66.83,LAM,Not Active,-0.57,2024-09-22
+Quinn,White,46,192.84,62.13,LAM,Active,0.48,2024-10-22
+Isabella,Wilson,22,172.69,83.33,AFK,Active,-1.09,2024-06-22
+Charlie,Moore,77,183.34,76.78,ECC,Not Active,-0.53,
+Charlie,Williams,44,191.88,80.13,ECC,Active,-1.27,2024-05-22
+Alice,Garcia,69,191.15,71.19,AFK,Active,-0.38,2024-08-22
+Peter,Johnson,52,191.69,61.76,ECR,,0.69,2024-07-22
+Mia,Thompson,57,164.42,81.43,,Active,0.77,2024-09-22
+Isabella,Brown,29,173.96,39.2,,Active,-0.13,2024-08-22
+Kate,Martin,75,150.67,71.09,ECR,Active,0.34,2024-05-22
+Frank,Anderson,62,143.11,75.71,ECR,Active,1.35,
+David,Harris,20,189.87,84.66,ECR,Active,-1.49,2024-06-22
+Henry,Brown,51,153.32,92.97,AFK,Active,0.56,2024-09-22
+Charlie,Martinez,55,162.89,43.7,AFK,Active,0.95,2024-08-22
+Grace,Thomas,62,177.04,67.81,AFK,Active,0.35,2024-08-22
+Frank,Jones,42,186.99,93.95,ECC,Active,0.26,2024-08-22
+Kate,Moore,50,164.31,58.84,LAM,Not Active,-0.48,2024-09-22
+Bob,Anderson,21,191.49,65.49,LAM,Active,0.36,
+Jack,Jackson,79,165.73,75.97,ECC,Active,0.18,2024-05-22
+Riley,Thompson,57,142.47,86.49,LAM,Active,0.43,2024-08-22
+Emily,Rodriguez,42,170.2,61.64,ECR,Active,0.8,2024-09-22
+Quinn,Martin,70,162.44,67.66,ECR,Not Active,0.42,
+Charlie,Martin,27,179.98,75.81,AFK,Active,-2.3,2024-09-22
+Noah,Garcia,79,215.73,63.18,,Active,1.37,2024-09-22
+Thomas,White,54,158.45,84.75,ECR,Active,-0.24,2024-08-22
+Grace,Harris,31,183.21,24.36,AFK,Transfering,-1.25,2024-05-22
+Olivia,Jones,78,159.19,70.18,ECC,Active,-1.5,2024-05-22
+Kate,Jones,56,122.09,64.12,AFK,Active,-0.73,2024-07-22
+Isabella,Martin,65,156.13,53.59,AFK,Active,1.38,2024-06-22
+Jack,Harris,41,170.1,43.41,ECC,Active,0.72,2024-06-22
+Grace,White,75,148.31,75.31,AFK,Active,0.8,2024-08-22
+Alice,Smith,56,164.54,84.61,LAM,Transfering,-0.98,2024-05-22
+Noah,Miller,44,156.76,54.58,ECC,Active,0.07,2024-10-22
+Quinn,Miller,79,145.75,54.28,ECC,Active,-0.71,2024-07-22
+Thomas,Jackson,72,161.46,61.24,,Active,-0.16,2024-06-22
+Thomas,Williams,43,134.46,69.26,,Active,-1.48,2024-10-22
+Olivia,White,58,159.72,85.99,ECR,Active,0.66,2024-08-22
+Riley,Miller,20,182.52,77.75,LAM,Active,0.25,
+Riley,Martinez,67,187.57,96.29,LAM,Active,0.25,2024-10-22
+Liam,Williams,38,170.82,68.81,ECC,Not Active,-0.95,2024-05-22
+Quinn,Smith,29,157.43,98.78,LAM,Active,0.23,2024-08-22
+David,Thompson,41,207.66,89.47,ECR,Active,-1.61,2024-10-22
+Henry,Thomas,30,115.05,90.93,ECC,,-0.33,2024-09-22
+Charlie,Williams,27,176.65,72.73,ECR,Active,0.92,
+Quinn,Smith,24,116.19,78.47,AFK,Active,-1.42,2024-08-22
+Olivia,Garcia,32,173.96,76.96,AFK,Active,-0.58,2024-05-22
+Olivia,Thomas,42,184.74,58.16,,Active,-0.66,2024-07-22
+Kate,Smith,62,164.36,60.81,LAM,Active,-1.62,2024-09-22
+Olivia,Rodriguez,42,206.89,83.46,LAM,Not Active,-0.07,2024-08-22
+Liam,Wilson,54,195.49,50.98,LAM,Not Active,-0.5,2024-07-22
+Noah,White,35,178.84,85.07,LAM,Active,-1.04,2024-07-22
+Charlie,Smith,62,182.42,43.7,ECR,Active,1.28,2024-10-22
+Kate,Williams,49,175.63,72.86,LAM,Active,0.21,2024-07-22
+Olivia,Anderson,42,172.81,79.75,,Active,0.51,2024-08-22
+Thomas,Davis,33,195.53,87.13,ECR,Transfering,-1.58,2024-06-22
+Sophia,Anderson,65,192.63,88.85,ECC,Active,1.66,2024-09-22
+Charlie,Anderson,60,200.69,65.44,LAM,Active,-0.92,2024-05-22
+Olivia,Garcia,77,161.29,62.32,ECC,Active,-0.34,2024-06-22
+Frank,Rodriguez,61,138.6,61.98,ECC,Not Active,0.41,2024-09-22
+Olivia,Moore,66,153.5,61.59,ECR,Active,-0.14,2024-08-22
+Mia,Johnson,44,179.93,64.7,ECC,Not Active,0.58,2024-10-22
+Isabella,Anderson,62,185.15,53.08,LAM,Active,-0.53,
+Mia,Jackson,80,193.93,77.46,LAM,Active,0.49,2024-05-22
+Peter,Smith,22,194.21,58.81,LAM,Not Active,0.36,2024-08-22
+Olivia,Brown,21,186.68,57.45,AFK,Active,-0.18,2024-09-22
+Jack,Smith,32,185.64,88.43,LAM,Active,0.07,2024-10-22
+David,Martinez,39,137.58,52.59,,Active,-1.78,2024-07-22
+Sophia,White,51,179.23,58.44,AFK,Active,-1.09,2024-10-22
+Emily,Thompson,65,175.16,98.42,LAM,Active,0.27,2024-09-22
+Quinn,Harris,29,203.85,83.86,,Active,0.52,2024-07-22
+Alice,Harris,58,220.16,79.18,ECC,,0.58,2024-07-22
+Alice,Brown,20,148.59,73.42,LAM,Active,-0.02,2024-07-22
+Noah,Rodriguez,52,160.24,93.16,LAM,Not Active,-1.3,2024-05-22
+David,Smith,30,182.67,61.89,AFK,Active,0.38,2024-05-22
+Noah,Jackson,48,163.33,70.39,ECR,Active,-0.57,
+Grace,Garcia,72,153.82,61.12,LAM,Active,0.82,2024-07-22
+Noah,Taylor,24,126.79,84.15,ECC,Active,-0.15,2024-09-22
+Riley,Smith,75,192.06,65.35,,Active,0.38,2024-08-22
+Olivia,Jones,47,156.24,76.98,,Active,0.46,2024-10-22
+Thomas,Martinez,71,152.66,63.67,ECC,Active,0.34,2024-06-22
+Noah,Harris,37,163.18,70.85,ECC,Active,0.5,2024-07-22
+Emily,Martin,59,182.5,91.81,ECC,,-0.47,2024-05-22
+Peter,Rodriguez,30,213.74,83.77,AFK,Active,0.07,2024-09-22
+Jack,Jackson,23,190.42,63.21,ECC,Not Active,-0.64,2024-09-22
+Peter,Johnson,66,191.85,65.99,ECC,,-0.21,2024-07-22
+Emily,Thomas,49,203.82,80.42,LAM,,1.3,
+Kate,Harris,29,219.64,57.62,AFK,Active,0.01,
+Grace,Smith,36,175.67,61.77,AFK,Active,-1.33,2024-05-22
+Riley,Anderson,47,165.13,66.72,ECC,Active,-0.1,2024-06-22
+Isabella,White,78,196.08,86.15,AFK,Active,1.38,
+Quinn,Smith,47,196.95,72.77,ECC,Active,0.94,
+Jack,Garcia,31,176.0,65.93,ECR,Active,-0.29,2024-06-22
+David,Williams,78,201.63,59.2,AFK,Active,1.2,2024-09-22
+Sophia,Martin,70,179.23,71.65,,Transfering,0.47,2024-09-22
+Henry,Thomas,20,192.25,53.02,LAM,Active,0.99,2024-10-22
+Kate,Thomas,79,169.0,63.94,ECC,Active,0.57,2024-10-22
+Henry,Harris,80,182.07,63.69,AFK,Active,-1.18,
+Grace,Wilson,54,131.85,84.45,ECR,Transfering,0.41,2024-05-22
+Henry,Harris,37,184.03,46.21,,Active,-0.71,2024-08-22
+Kate,Martinez,43,171.74,55.25,ECC,Transfering,0.39,2024-08-22
+Noah,Anderson,35,181.98,61.12,ECR,Active,-3.01,2024-09-22
+Noah,Moore,52,152.54,39.26,ECR,Active,-0.72,2024-07-22
+Noah,Rodriguez,69,147.8,58.24,LAM,Active,1.47,2024-08-22
+Grace,Anderson,36,188.07,73.7,,Active,-0.3,2024-05-22
+Olivia,White,24,183.06,75.92,AFK,Not Active,0.76,2024-09-22
+Isabella,Thomas,21,148.05,70.22,LAM,Not Active,0.03,2024-10-22
+Emily,Brown,69,170.18,95.73,ECC,Not Active,0.63,
+Bob,Thompson,56,186.04,73.44,AFK,Active,-0.93,2024-10-22
+Charlie,Garcia,51,174.54,63.34,,Active,-1.09,2024-09-22
+Liam,Rodriguez,21,155.85,68.86,ECR,Not Active,0.53,2024-07-22
+Emily,Martin,61,182.81,58.09,AFK,Not Active,-0.1,2024-07-22
+Alice,Jackson,32,152.11,60.44,,Active,0.15,2024-06-22
+Emily,Williams,35,166.21,84.93,AFK,Active,0.86,2024-09-22
+Jack,Martin,65,185.42,65.53,ECC,Active,-1.39,2024-08-22
+Frank,Anderson,21,160.7,74.83,ECC,Active,-0.39,2024-10-22
+Noah,Williams,58,156.23,75.16,,Transfering,0.68,2024-09-22
+Olivia,Smith,65,166.1,62.07,ECR,Active,-0.64,2024-10-22
+Mia,Johnson,41,158.4,60.28,ECC,Active,-0.43,2024-10-22
+Frank,Harris,59,145.46,82.84,,Active,-0.08,2024-10-22
+Kate,Rodriguez,47,189.32,64.51,,Not Active,0.5,
+Quinn,Miller,66,158.12,70.06,,Not Active,0.88,
+Sophia,Jones,28,166.28,95.01,,Not Active,-0.58,2024-09-22
+Henry,Jackson,77,185.74,70.77,LAM,Active,-0.15,2024-05-22
+Quinn,White,70,197.95,79.35,AFK,Active,1.56,2024-05-22
+Alice,Davis,63,151.45,84.48,ECR,Active,1.18,
+Jack,Martin,33,172.11,59.1,ECC,Active,-0.65,2024-07-22
+Henry,Miller,45,170.11,83.72,ECC,Active,-1.01,2024-06-22
+David,Miller,36,194.15,68.42,AFK,,-0.41,2024-09-22
+Kate,Anderson,67,153.45,59.45,ECR,Active,0.68,2024-08-22
+Alice,Johnson,34,179.62,59.96,,,-0.46,2024-08-22
+Sophia,Johnson,51,155.94,83.1,ECR,Active,0.37,2024-05-22
+Riley,Johnson,36,128.58,56.55,LAM,Not Active,-0.98,2024-06-22
+Emily,Miller,71,173.5,62.8,AFK,Not Active,-1.76,2024-10-22
+Emily,Garcia,61,174.79,83.21,LAM,Active,-0.34,2024-08-22
+Riley,Martinez,44,137.92,92.48,LAM,,0.45,2024-05-22
+Emily,Thompson,27,171.26,67.69,,Active,-0.76,2024-05-22
+Charlie,Jones,62,189.32,63.06,ECC,Active,-1.63,2024-10-22
+Henry,Jackson,38,184.87,71.7,,Active,-0.29,2024-06-22
+Kate,Moore,32,176.81,53.42,ECR,Active,0.1,2024-09-22
+Emily,Rodriguez,66,171.52,70.34,AFK,Active,-1.2,2024-07-22
+Sophia,Brown,22,160.05,54.83,,Active,1.7,2024-09-22
+Mia,Rodriguez,48,177.22,51.85,,Active,-1.78,
+David,White,35,183.04,69.37,ECC,Active,0.31,
+Frank,Garcia,66,169.08,76.77,,Active,-0.2,2024-07-22
+Noah,Moore,78,150.53,57.43,LAM,Active,-0.36,2024-05-22
+Emily,Wilson,56,179.33,52.06,,Active,1.18,2024-10-22
+Noah,Wilson,48,189.5,68.42,ECR,Active,0.98,2024-08-22
+Alice,Martin,43,166.46,87.56,,Active,-0.27,2024-10-22
+Henry,Brown,66,154.09,83.13,LAM,Active,-2.56,2024-05-22
+Olivia,Miller,40,198.0,40.98,ECR,Active,0.57,2024-06-22
+Jack,Davis,64,165.93,70.05,AFK,Active,-0.89,2024-08-22
+Thomas,Wilson,65,128.41,54.38,,Active,-0.83,2024-08-22
+Noah,Davis,23,205.07,41.24,AFK,Active,1.49,2024-10-22
+Thomas,Davis,60,151.32,61.95,AFK,Active,-0.12,2024-05-22
+Liam,Williams,38,154.19,79.6,LAM,Not Active,-1.09,2024-08-22
+Riley,Martinez,24,173.94,56.47,AFK,Not Active,-2.09,2024-05-22
+Henry,Brown,68,172.38,85.15,AFK,Active,-1.84,2024-09-22
+Henry,Miller,61,168.01,71.01,,Active,0.1,2024-07-22
+Kate,Garcia,23,150.83,67.12,LAM,Active,1.93,2024-09-22
+Riley,Wilson,43,150.71,67.64,ECC,Active,-0.43,2024-09-22
+Henry,Harris,56,122.62,77.63,ECR,Active,-0.35,2024-09-22
+Noah,Anderson,61,140.26,57.43,LAM,Active,0.43,2024-08-22
+Liam,Martin,43,193.16,74.48,ECC,Active,-0.78,2024-08-22
+Riley,Jones,34,165.21,77.74,ECC,Active,2.08,2024-07-22
+Liam,Jackson,27,186.21,69.6,,Active,-0.47,2024-08-22
+Olivia,Davis,70,181.86,68.13,LAM,Active,0.16,2024-06-22
+Peter,Williams,54,145.8,95.31,ECC,Active,-0.19,2024-06-22
+Grace,Anderson,70,181.24,87.83,LAM,Not Active,-0.86,2024-05-22
+Olivia,Moore,45,164.52,72.97,ECC,Active,0.01,2024-05-22
+Thomas,Jones,68,156.31,73.18,AFK,Active,-0.66,2024-06-22
+Riley,Davis,45,176.03,56.84,AFK,Active,-1.22,2024-09-22
+David,Moore,32,158.78,41.93,ECC,Active,1.1,2024-07-22
+Emily,Moore,57,150.71,78.76,AFK,Active,0.58,2024-09-22
+Kate,Jones,65,149.17,73.99,LAM,Transfering,-0.08,2024-08-22
+Emily,Martin,47,167.62,47.68,LAM,Active,-1.6,2024-10-22
+Sophia,Smith,50,152.02,71.32,ECR,Active,0.19,2024-06-22
+Bob,Smith,79,175.29,77.03,ECR,Transfering,0.3,2024-09-22
+Kate,Harris,61,155.24,90.86,ECR,Not Active,0.34,2024-08-22
+Emily,Martin,34,143.59,54.15,LAM,Active,-0.94,2024-08-22
+Grace,Thomas,74,175.35,66.66,ECR,Not Active,0.49,2024-06-22
+Liam,Davis,37,147.18,79.34,,Active,0.3,2024-09-22
+Kate,Martin,67,174.26,90.26,LAM,Active,0.69,2024-06-22
+David,Harris,77,178.11,83.13,ECR,Active,-0.69,2024-06-22
+Jack,Martinez,51,172.33,81.64,AFK,Not Active,-1.41,2024-09-22
+Isabella,Smith,34,178.67,78.09,ECR,Active,-0.59,
+Kate,Smith,28,164.99,93.94,,Active,-0.01,2024-09-22
+David,Smith,62,195.26,68.59,ECC,Active,-0.67,2024-09-22
+Alice,White,23,160.19,60.2,LAM,Active,0.27,2024-09-22
+Peter,Smith,67,154.63,52.67,AFK,Active,-0.74,2024-06-22
+Olivia,Moore,50,167.01,81.25,,Active,-0.95,2024-08-22
+Thomas,Johnson,28,184.05,47.88,,Active,1.3,2024-08-22
+Grace,White,38,160.81,71.32,,Active,-0.07,2024-06-22
+David,Smith,46,154.68,83.94,,Not Active,1.91,2024-10-22
+Mia,Martinez,27,155.86,61.48,,Active,0.84,2024-06-22
+Peter,Rodriguez,41,172.54,72.84,AFK,Active,-1.6,
+Henry,Harris,75,167.95,103.65,LAM,Active,-1.77,2024-05-22
+Bob,Davis,31,127.27,64.41,ECR,Active,-0.27,2024-08-22
+Charlie,Jackson,65,147.86,84.33,LAM,Not Active,1.11,
+Thomas,Anderson,76,156.67,67.27,,Not Active,-1.84,2024-06-22
+Liam,Miller,29,187.28,88.33,LAM,Active,0.51,2024-08-22
+Thomas,Garcia,79,188.12,73.39,,Active,-0.27,2024-07-22
+Thomas,White,26,164.25,47.87,,Transfering,0.32,2024-09-22
+Peter,Brown,36,188.45,47.15,,Active,-1.22,
+Henry,Jones,39,166.51,72.93,,Active,0.73,2024-10-22
+Grace,Moore,28,169.0,59.76,,Active,0.16,2024-09-22
+Charlie,White,71,146.47,71.96,AFK,Active,-0.33,2024-09-22
+Quinn,Taylor,21,185.28,71.22,,Active,0.35,2024-09-22
+Jack,Jackson,65,146.93,65.91,ECR,Active,-0.55,2024-07-22
+Frank,Moore,44,159.82,90.54,LAM,Active,-1.05,
+Charlie,Brown,71,176.56,75.94,ECR,Active,-0.73,
+Jack,Jackson,51,148.28,43.75,AFK,Active,1.12,2024-08-22
+Bob,Martinez,58,177.26,67.08,ECR,Active,-0.18,2024-06-22
+Bob,Johnson,74,197.87,63.44,LAM,Not Active,-1.38,2024-07-22
+Mia,Wilson,24,180.76,80.4,AFK,Active,0.32,2024-05-22
+Bob,Jones,50,191.55,77.89,ECC,Active,0.39,
+Sophia,Wilson,74,176.83,64.04,LAM,Active,-0.27,2024-09-22
+Noah,Davis,70,173.81,62.98,ECC,Active,0.37,2024-05-22
+Alice,Thomas,47,167.8,87.14,AFK,Active,0.57,2024-07-22
+Noah,Garcia,68,207.55,76.44,AFK,,1.3,2024-05-22
+Grace,Martin,68,182.24,77.73,ECR,Not Active,-1.59,2024-07-22
+Frank,Thompson,50,181.58,90.98,LAM,Active,-1.3,2024-05-22
+Isabella,Johnson,29,215.11,36.16,AFK,Active,-0.37,2024-09-22
+Olivia,Moore,46,180.26,59.54,LAM,Active,1.76,2024-08-22
+Bob,Anderson,31,197.2,88.14,LAM,Active,0.75,2024-08-22
+Thomas,Smith,80,191.96,55.78,LAM,Not Active,0.9,2024-07-22
+Thomas,Rodriguez,45,129.59,93.1,ECR,Active,-0.72,2024-09-22
+Bob,Jackson,27,195.91,37.98,ECR,Active,-0.54,2024-07-22
+Noah,Garcia,26,141.35,56.09,ECC,Active,-0.85,
+Quinn,Moore,45,143.8,71.69,ECR,Active,0.86,2024-07-22
+Quinn,Smith,67,136.63,71.78,LAM,,0.92,
+Quinn,Smith,31,144.4,62.5,,Active,0.93,2024-05-22
+Liam,Moore,27,138.99,72.3,AFK,Active,-0.84,2024-08-22
+Alice,Jones,78,152.97,99.83,LAM,Active,1.35,2024-08-22
+Peter,Brown,73,159.38,58.24,AFK,Active,-0.77,2024-06-22
+Isabella,Williams,45,169.37,70.66,AFK,Not Active,0.28,
+Emily,Davis,74,131.93,70.28,AFK,,-1.3,2024-07-22
+Quinn,Smith,22,213.09,71.73,ECR,Active,0.92,2024-05-22
+Peter,Taylor,37,156.12,96.21,AFK,Active,-0.55,2024-10-22
+Frank,Harris,77,171.55,62.84,ECC,Active,-0.55,2024-10-22
+Jack,Smith,58,166.02,38.46,AFK,Not Active,-0.44,
+Emily,Brown,63,182.55,67.58,LAM,Active,-0.53,2024-09-22
+Bob,Martinez,37,174.34,101.47,LAM,Active,0.7,
+Grace,Johnson,28,159.46,58.81,ECC,Active,0.67,2024-07-22
+Emily,White,22,150.07,91.07,ECR,Active,2.53,2024-09-22
+Frank,Wilson,77,172.57,59.24,ECC,Active,-0.24,2024-10-22
+Isabella,Garcia,20,192.16,84.12,ECR,Not Active,0.63,2024-08-22
+Olivia,Taylor,46,187.95,48.02,AFK,Active,-1.73,
+Emily,Jackson,41,175.56,71.74,AFK,Active,-1.16,2024-09-22
+Emily,Jackson,54,135.08,65.73,ECC,Active,-1.45,2024-05-22
+Peter,Jackson,42,152.54,106.46,LAM,Active,-2.33,2024-06-22
+Kate,Brown,66,185.35,62.12,AFK,Active,0.22,2024-05-22
+Liam,Anderson,75,169.34,75.99,LAM,Not Active,-0.26,2024-05-22
+Noah,Rodriguez,78,154.54,55.32,LAM,Not Active,0.47,2024-10-22
+Isabella,Davis,49,183.41,61.63,,Active,-0.36,
+Henry,Anderson,55,205.46,58.72,,Active,1.79,2024-09-22
+Henry,Rodriguez,35,168.74,70.73,AFK,Active,0.26,2024-05-22
+Grace,Williams,58,127.59,61.9,,Active,-0.62,2024-08-22
+Frank,Harris,51,195.17,69.37,LAM,Not Active,0.31,2024-08-22
+Noah,Jackson,73,161.36,82.07,AFK,Active,-0.04,2024-07-22
+Kate,Rodriguez,71,166.01,71.84,AFK,Active,-2.08,2024-10-22
+Frank,Martinez,42,173.53,57.4,ECC,,-0.15,2024-09-22
+Olivia,Harris,42,183.91,95.29,LAM,Active,1.18,2024-07-22
+Sophia,Garcia,30,154.99,58.62,AFK,Active,-0.86,2024-08-22
+Mia,Smith,20,207.83,71.84,,Active,-0.57,2024-08-22
+Alice,Smith,33,193.76,57.96,ECR,Not Active,-0.55,2024-06-22
+Peter,Rodriguez,40,166.87,69.74,AFK,Active,-1.26,2024-05-22
+Peter,Thompson,68,187.54,104.23,ECC,Active,-0.54,2024-07-22
+Frank,Thompson,38,173.89,90.04,LAM,Active,0.9,2024-06-22
+Thomas,White,53,165.01,52.19,AFK,Active,0.89,2024-08-22
+Frank,Williams,48,170.05,59.76,LAM,Active,-0.3,2024-06-22
+Henry,Garcia,65,171.29,78.24,ECC,Active,0.22,2024-08-22
+Henry,Smith,32,154.0,54.62,LAM,Active,-0.55,
+Mia,Harris,47,139.03,58.08,ECC,Active,-0.13,2024-05-22
+Olivia,Brown,40,157.16,43.38,ECC,Active,0.74,
+Jack,Martinez,25,166.36,74.64,ECC,Active,0.09,
+Kate,Thomas,24,189.61,94.33,,Active,0.81,2024-09-22
+Jack,Miller,47,172.76,66.24,ECR,Not Active,0.86,2024-10-22
+Grace,Miller,32,143.94,72.71,ECR,Active,-1.27,2024-06-22
+Kate,Thomas,31,203.34,62.56,ECR,Active,-0.53,2024-08-22
+Peter,Taylor,59,137.59,89.98,ECR,Active,-0.38,2024-10-22
+Liam,Jones,25,166.71,62.55,ECC,Not Active,0.75,2024-06-22
+Mia,Miller,49,150.58,58.75,ECR,Not Active,0.2,2024-06-22
+Emily,Jones,67,168.19,79.47,AFK,Not Active,-0.76,2024-08-22
+Riley,Jones,20,182.07,68.57,,Active,-1.17,2024-05-22
+Noah,Thompson,63,166.25,50.04,,,0.4,2024-06-22
+Isabella,Wilson,25,203.03,74.87,AFK,Active,0.39,
+Emily,Wilson,60,131.46,67.94,LAM,Not Active,0.86,2024-07-22
+Kate,Martinez,77,177.65,72.42,LAM,Active,-0.21,2024-10-22
+Frank,Thompson,68,177.93,54.52,ECR,Active,-0.45,2024-10-22
+Kate,Harris,76,130.54,74.09,,Active,-0.05,2024-09-22
+Sophia,Johnson,50,172.44,54.18,ECR,Not Active,0.5,2024-08-22
+Jack,Harris,48,178.71,50.15,LAM,Active,-1.08,
+Riley,White,55,155.33,50.7,ECR,Active,-0.24,2024-07-22
+Isabella,Anderson,64,195.79,79.0,ECR,Active,0.27,2024-09-22
+David,White,23,170.6,47.71,ECC,Active,0.35,2024-09-22
+Bob,Johnson,30,161.04,61.95,AFK,Active,-1.34,2024-05-22
+Liam,Williams,57,186.27,60.75,ECR,Active,-0.17,2024-09-22
+David,Moore,78,191.93,64.68,ECR,Active,0.53,2024-10-22
+Charlie,Rodriguez,63,185.56,86.36,ECC,Active,1.2,2024-08-22
+Peter,White,66,183.97,91.12,,Active,0.14,
+Noah,Martin,48,188.91,77.34,ECR,Active,-1.49,2024-05-22
+Kate,Williams,28,137.54,80.67,,Active,-0.53,2024-10-22
+Mia,Brown,68,198.24,63.39,,Active,0.4,2024-05-22
+Emily,Wilson,55,199.52,74.69,ECC,Not Active,0.39,2024-07-22
+Kate,Martin,33,162.53,76.82,ECR,Not Active,0.26,2024-07-22
+Quinn,Wilson,31,147.47,71.59,ECC,Active,-1.14,2024-09-22
+Alice,Johnson,31,180.25,41.88,LAM,Not Active,-0.06,2024-10-22
+Bob,Martinez,46,190.26,100.46,ECC,Active,1.39,2024-09-22
+Frank,Johnson,63,172.65,67.67,LAM,Not Active,2.14,2024-10-22
+Frank,Martin,60,134.56,75.06,AFK,Active,0.52,
+Noah,Martin,24,182.06,61.26,ECC,Active,-1.48,2024-09-22
+Henry,Rodriguez,77,160.65,83.69,LAM,Active,-0.5,2024-07-22
+Grace,Taylor,22,159.63,58.25,ECR,Not Active,-0.57,
+Olivia,Harris,37,174.24,40.58,LAM,Active,-0.36,
+Isabella,Williams,72,157.01,49.99,LAM,Active,-0.09,2024-10-22
+Emily,White,65,155.33,49.16,LAM,Active,-1.39,2024-08-22
+Thomas,Johnson,68,137.76,50.64,ECR,Active,0.63,2024-06-22
+Mia,Jackson,42,168.54,80.95,ECR,Active,-0.91,
+Noah,Williams,41,182.31,70.54,,,0.53,
+Emily,Anderson,73,168.59,62.1,ECC,Transfering,1.51,2024-09-22
+Frank,Taylor,33,161.63,83.13,ECC,Active,-0.05,2024-10-22
+Jack,Taylor,20,143.87,68.65,ECC,Not Active,1.52,
+Grace,Wilson,66,143.61,67.59,ECC,Active,-1.38,2024-08-22
+Alice,White,58,177.24,73.64,LAM,Active,1.13,2024-07-22
+Riley,Jones,80,164.25,81.59,LAM,Active,-0.61,2024-05-22
+Kate,Taylor,21,160.83,62.61,ECR,Active,1.93,2024-08-22
+Mia,Johnson,45,182.81,97.76,LAM,Active,0.84,2024-09-22
+Henry,Wilson,62,203.87,77.02,,Active,-1.91,2024-05-22
+Kate,Wilson,67,142.01,115.31,ECR,Active,-1.07,2024-07-22
+Peter,Wilson,63,173.04,91.77,ECC,Active,1.59,2024-05-22
+Sophia,Wilson,67,174.56,73.09,ECR,Active,-0.28,2024-10-22
+Riley,Brown,74,193.07,84.16,,Active,0.47,2024-08-22
+Sophia,Anderson,57,187.57,72.66,,Active,-1.09,2024-08-22
+Mia,Thompson,41,199.44,84.78,ECC,Not Active,1.29,2024-06-22
+Alice,Jackson,27,187.5,67.54,AFK,Active,1.75,
+Bob,Thomas,43,135.52,87.17,LAM,Active,1.32,2024-08-22
+Isabella,White,57,189.8,54.34,,Active,-1.26,
+Riley,Harris,54,186.09,80.89,LAM,Active,-0.51,2024-07-22
+Isabella,Rodriguez,30,187.33,46.8,AFK,Active,0.18,2024-06-22
+Quinn,Harris,28,176.17,77.49,,Not Active,-0.28,2024-06-22
+Grace,Thomas,64,173.06,48.8,LAM,Not Active,0.27,
+Charlie,Williams,25,179.16,81.11,ECR,Not Active,1.49,2024-09-22
+Quinn,White,69,157.03,54.27,ECC,Active,0.46,2024-10-22
+Peter,Smith,51,140.87,76.01,ECC,Active,0.54,2024-06-22
+Grace,Thomas,29,183.16,93.68,ECC,Active,1.19,2024-06-22
+Quinn,Johnson,26,157.05,63.39,ECC,Not Active,1.69,2024-05-22
+Charlie,Smith,49,178.51,72.98,ECR,Active,-2.04,2024-05-22
+Isabella,Martinez,24,182.4,74.13,ECC,,-0.39,2024-07-22
+Isabella,Harris,43,162.03,76.23,AFK,Active,0.16,
+Kate,Wilson,76,126.96,92.84,AFK,,-2.43,2024-06-22
+Emily,Moore,51,208.75,78.91,,Active,0.9,2024-09-22
+Thomas,Miller,32,160.69,67.24,ECR,Active,0.38,2024-05-22
+Sophia,Jones,30,152.2,47.31,ECR,Active,-2.09,2024-06-22
+David,Thompson,63,192.26,72.63,ECC,Active,0.31,2024-06-22
+Frank,Garcia,38,172.6,83.92,,Active,-1.26,2024-08-22
+Emily,Garcia,67,195.48,77.53,ECR,Active,-0.58,2024-07-22
+Peter,Martin,35,151.88,73.16,ECC,Not Active,1.07,2024-07-22
+Noah,Harris,58,186.08,92.95,AFK,Active,-0.21,2024-05-22
+Henry,Taylor,40,147.73,83.8,AFK,Active,0.51,2024-08-22
+Mia,Moore,26,199.27,46.34,AFK,Active,0.25,
+Olivia,Thompson,69,161.22,59.54,LAM,Not Active,1.23,2024-08-22
+Mia,Johnson,76,184.38,23.87,LAM,Active,1.12,2024-06-22
+Alice,Wilson,39,151.78,87.12,ECR,Not Active,0.81,2024-07-22
+David,Garcia,24,208.22,72.69,,Active,0.5,2024-05-22
+Liam,Johnson,30,202.28,96.01,AFK,Transfering,-0.52,
+Emily,Jackson,55,177.21,70.98,ECC,Not Active,0.09,2024-06-22
+Henry,Williams,44,135.9,68.08,LAM,Not Active,-1.42,2024-09-22
+Bob,Harris,37,160.68,70.29,AFK,Not Active,1.18,
+Thomas,White,74,173.52,50.65,LAM,Active,1.03,2024-09-22
+Riley,White,45,200.45,72.09,LAM,Not Active,0.11,2024-05-22
+Riley,Johnson,50,180.83,93.26,ECR,Active,-0.99,2024-09-22
+Mia,Brown,53,169.31,52.22,,Active,0.18,
+Mia,Anderson,46,202.85,73.81,AFK,Active,-2.08,2024-05-22
+Grace,Jackson,27,158.62,64.6,AFK,Active,-1.83,2024-10-22
+Olivia,Taylor,79,188.79,86.07,ECC,Not Active,0.36,2024-10-22
+Grace,Moore,60,147.3,78.49,AFK,Active,0.77,2024-10-22
+Frank,White,28,159.11,82.55,AFK,Active,0.66,2024-09-22
+Henry,Smith,63,158.16,60.32,AFK,Active,-0.91,2024-09-22
+Sophia,Jackson,74,158.31,70.07,ECR,Not Active,-0.73,2024-06-22
+David,Thompson,24,183.38,85.16,ECR,Active,1.98,2024-05-22
+Sophia,Johnson,41,140.68,43.54,AFK,Active,1.29,2024-07-22
+Sophia,Taylor,37,151.6,51.16,AFK,Active,-0.55,2024-05-22
+Alice,Garcia,36,194.77,51.08,,Active,0.13,2024-07-22
+Bob,Davis,55,151.74,75.07,ECC,Active,0.39,2024-10-22
+Frank,White,69,148.09,55.6,ECR,Active,-0.87,2024-07-22
+Charlie,White,24,178.8,55.14,ECC,Not Active,0.11,
+Thomas,White,63,155.43,106.76,LAM,Active,0.94,2024-07-22
+Alice,Anderson,29,190.96,97.97,LAM,Active,0.99,2024-08-22
+Mia,Davis,80,189.73,50.1,,Not Active,-0.71,2024-07-22
+Alice,Martin,21,166.96,60.83,LAM,Active,1.48,2024-05-22
+Alice,Martin,33,191.39,72.95,ECR,Active,0.35,2024-08-22
+Charlie,Davis,68,170.52,74.18,,Active,0.16,2024-10-22
+Henry,Taylor,37,204.41,69.23,AFK,Active,0.89,2024-06-22
+David,Brown,36,162.99,45.06,,Active,1.71,2024-10-22
+Frank,Taylor,78,181.85,87.43,AFK,Not Active,-0.17,2024-09-22
+Riley,Jackson,65,200.68,64.77,ECC,Active,0.86,2024-05-22
+Grace,Jackson,28,182.7,91.81,AFK,Not Active,0.67,2024-10-22
+Mia,Thomas,52,175.16,65.95,ECC,Active,-1.45,
+Sophia,Miller,29,181.97,75.57,AFK,Active,-0.35,2024-06-22
+Olivia,Miller,31,160.1,84.39,,,-0.62,
+Liam,Garcia,80,191.54,66.77,ECR,Active,-0.52,2024-06-22
+Olivia,Jones,34,185.95,77.27,,Transfering,-1.87,2024-06-22
+Mia,Thompson,52,189.59,78.58,LAM,Active,-1.41,2024-07-22
+Mia,Davis,39,180.69,48.41,ECC,Active,-0.51,2024-08-22
+Mia,Anderson,67,171.97,90.78,ECC,Not Active,1.69,2024-07-22
+David,Brown,70,192.89,53.75,,Active,0.16,2024-07-22
+Alice,White,20,174.49,46.31,ECR,Active,-1.78,2024-06-22
+Jack,Harris,66,142.13,91.29,,Not Active,-0.15,2024-06-22
+Emily,Johnson,41,118.6,73.13,,Active,0.86,
+Riley,Williams,48,184.13,77.39,ECR,Active,-0.54,
+Bob,Jones,72,173.6,100.43,,Active,1.28,2024-10-22
+Henry,Rodriguez,78,141.59,65.18,ECC,Transfering,0.54,2024-10-22
+Mia,Miller,77,191.73,67.12,ECR,Active,-1.19,2024-07-22
+Grace,Wilson,60,177.26,72.3,ECC,Active,-0.34,2024-06-22
+Noah,Garcia,26,180.4,60.95,LAM,Active,0.41,2024-10-22
+Liam,Miller,63,187.29,107.71,,Not Active,0.95,2024-07-22
+Jack,Williams,80,146.14,81.43,,Active,0.55,2024-08-22
+Charlie,Harris,72,147.83,71.81,LAM,Not Active,1.07,2024-08-22
+Peter,White,78,169.42,74.82,ECC,Active,0.67,2024-06-22
+Liam,White,55,145.14,75.15,AFK,Active,-0.79,2024-09-22
+Noah,Smith,42,167.52,64.65,AFK,Active,0.51,2024-08-22
+Peter,Moore,32,182.92,68.65,ECR,Active,-1.86,
+David,Jones,46,163.1,67.93,,Active,-1.21,2024-08-22
+Mia,White,74,188.43,81.75,ECC,Active,1.74,2024-10-22
+Sophia,Martin,80,171.22,58.82,ECR,Active,-0.74,
+Mia,Rodriguez,57,173.47,72.44,ECC,Active,-0.24,2024-10-22
+Henry,White,60,140.58,80.96,ECC,,0.73,2024-09-22
+Noah,Jackson,58,177.12,70.2,AFK,Not Active,1.88,
+Thomas,Moore,20,192.34,60.36,LAM,Active,0.46,2024-06-22
+Charlie,Garcia,62,148.69,73.77,AFK,Active,-1.56,2024-05-22
+Isabella,Miller,54,171.95,78.08,ECR,Active,-0.39,2024-10-22
+Jack,Smith,74,149.81,83.75,LAM,Active,-1.54,2024-05-22
+Quinn,Martin,26,143.15,64.34,LAM,Not Active,-0.35,
+Liam,Johnson,72,163.99,79.13,ECR,Active,0.99,2024-05-22
+Peter,Garcia,51,170.01,66.18,ECR,Active,0.73,2024-07-22
+David,Brown,32,212.57,70.24,AFK,Active,-1.94,2024-10-22
+Henry,Moore,46,195.5,54.74,LAM,Active,1.04,2024-06-22
+Olivia,Martinez,54,149.92,66.86,ECR,Active,-0.92,2024-07-22
+Charlie,Rodriguez,70,203.31,79.54,AFK,Active,1.61,
+Peter,Martinez,73,138.38,87.42,,Active,1.01,2024-08-22
+Noah,Thompson,67,174.6,66.44,,Active,0.98,2024-05-22
+Quinn,Moore,66,178.0,70.56,LAM,Active,0.11,2024-08-22
+Noah,Williams,51,134.8,80.47,ECR,Active,-0.33,
+Quinn,Harris,67,226.15,96.45,AFK,Not Active,1.63,2024-05-22
+Riley,Davis,42,187.59,94.87,LAM,Active,1.2,2024-10-22
+Kate,Jackson,30,187.89,101.16,,,-1.03,2024-10-22
+Isabella,Johnson,70,176.24,87.36,LAM,Active,2.56,2024-09-22
+Peter,Anderson,46,195.5,28.18,ECC,Active,1.28,
+Kate,Martinez,39,150.45,65.51,LAM,Active,1.4,2024-07-22
+Frank,Anderson,41,196.42,60.69,ECR,Active,-0.53,
+Henry,Martinez,43,221.58,93.22,ECC,,-1.51,2024-10-22
+Jack,Smith,64,179.51,52.24,AFK,Not Active,1.54,2024-06-22
+Noah,Wilson,30,110.4,45.98,LAM,Active,-0.14,2024-08-22
+Bob,Moore,71,146.34,57.58,,Active,0.52,2024-05-22
+Liam,Wilson,42,173.29,86.28,ECC,Not Active,0.16,2024-10-22
+Bob,Thompson,49,150.44,54.09,ECR,Active,0.41,2024-10-22
+Kate,Williams,75,186.61,73.6,ECC,Active,-0.54,2024-08-22
+Isabella,Thompson,24,174.91,83.69,ECR,Active,0.24,2024-07-22
+Thomas,Rodriguez,52,137.8,58.39,AFK,Active,0.84,2024-09-22
+Grace,Smith,26,187.59,64.59,LAM,,-0.55,2024-08-22
+Olivia,Anderson,21,164.11,60.76,ECR,Active,-0.11,
+Liam,Miller,20,167.28,44.98,AFK,Active,0.27,2024-06-22
+Emily,Wilson,27,190.39,76.39,ECR,Active,0.77,2024-09-22
+Noah,Davis,51,163.88,64.19,LAM,,-0.12,2024-09-22
+David,Anderson,69,148.63,59.93,LAM,Active,0.31,2024-08-22
+Mia,Smith,47,198.62,121.39,ECR,Transfering,-0.92,
+Frank,Jones,43,183.0,98.55,AFK,Active,0.39,2024-06-22
+Emily,Anderson,20,168.58,69.57,ECC,Active,-1.42,2024-06-22
+Riley,Johnson,23,143.21,39.31,,Active,0.31,2024-09-22
+Alice,Anderson,62,177.85,83.07,AFK,Active,1.24,2024-05-22
+Jack,Anderson,68,189.67,69.52,LAM,Active,-0.1,2024-05-22
+Mia,Wilson,50,126.17,45.0,AFK,Not Active,0.82,2024-09-22
+Kate,Wilson,37,190.64,68.0,AFK,Active,0.67,2024-09-22
+Grace,Thomas,52,206.43,93.64,ECC,Active,-0.36,2024-06-22
+Charlie,Johnson,40,213.83,59.82,AFK,Active,0.73,2024-09-22
+Riley,Brown,45,192.06,84.58,,Active,1.27,2024-05-22
+Emily,Miller,47,154.71,72.38,ECR,,2.0,2024-05-22
+Mia,Martinez,49,154.72,102.18,ECC,Not Active,1.87,
+Emily,Martin,67,190.56,51.45,ECR,Active,0.5,2024-05-22
+Grace,Miller,57,185.08,76.99,,,1.07,2024-05-22
+Olivia,Williams,47,159.4,29.19,ECC,Active,-0.03,
+Kate,Williams,63,163.18,97.37,AFK,Active,0.56,2024-05-22
+Jack,Taylor,72,181.43,53.36,LAM,Active,3.25,
+Isabella,Jones,66,160.91,107.19,ECR,Active,0.85,2024-05-22
+Charlie,Johnson,69,185.36,87.93,ECC,Active,-0.33,2024-06-22
+David,Brown,46,212.36,46.25,ECR,Active,1.62,2024-06-22
+Sophia,Moore,68,160.99,74.38,ECC,Active,1.7,2024-06-22
+Mia,Brown,55,140.75,60.95,AFK,Active,1.93,2024-07-22
+Jack,White,67,165.49,42.32,AFK,Active,2.08,2024-08-22
+Grace,Garcia,45,195.14,70.84,ECC,Active,-0.67,2024-09-22
+Isabella,White,48,148.49,44.57,AFK,Active,0.2,2024-09-22
+Riley,Jackson,66,186.77,66.65,LAM,Active,-1.36,2024-05-22
+Charlie,Harris,80,175.84,76.76,AFK,Active,-0.85,2024-07-22
+Alice,Thompson,79,190.7,75.94,,Active,0.53,2024-09-22
+Henry,Moore,70,171.06,92.6,AFK,Active,-1.41,2024-06-22
+Kate,Wilson,79,190.5,73.72,LAM,Not Active,1.47,2024-07-22
+Frank,Smith,30,164.64,60.05,,Not Active,-2.26,2024-08-22
+Emily,Martin,50,156.26,83.51,ECC,,0.05,2024-10-22
+Grace,Anderson,35,174.15,70.93,,Not Active,0.41,2024-08-22
+Grace,Brown,53,192.55,70.36,AFK,Active,-0.95,2024-08-22
+Charlie,Johnson,37,167.14,69.19,LAM,Active,0.41,
+Henry,Davis,23,168.65,57.49,ECR,Active,1.3,2024-07-22
+Grace,Davis,51,158.84,67.46,ECR,Active,0.39,2024-08-22
+Thomas,Garcia,36,152.41,48.6,LAM,Active,0.51,2024-05-22
+Charlie,Taylor,49,192.54,55.07,AFK,Active,1.75,2024-07-22
+Peter,Wilson,25,208.47,76.67,ECC,Active,-0.69,2024-10-22
+Bob,Rodriguez,41,176.33,55.91,ECC,Not Active,0.28,2024-07-22
+Mia,Taylor,52,167.64,63.55,ECC,Active,-0.91,2024-06-22
+Bob,Miller,33,198.28,62.61,,Active,0.96,2024-08-22
+Quinn,White,70,131.33,38.3,,Active,1.15,2024-09-22
+Isabella,Jackson,62,157.29,85.66,,Active,-0.61,2024-05-22
+Frank,Jackson,24,151.0,85.96,ECR,Active,-0.33,2024-07-22
+Olivia,Davis,65,167.07,63.49,,,0.85,2024-09-22
+Noah,Thompson,53,161.83,73.23,LAM,Active,-0.66,2024-10-22
+Mia,Davis,38,192.53,50.14,LAM,Not Active,-0.12,2024-05-22
+Riley,Jones,63,162.26,62.85,AFK,Active,-0.0,2024-05-22
+Henry,Garcia,21,208.32,85.79,ECC,Active,-0.27,2024-08-22
+Henry,Thompson,44,185.2,55.53,ECC,Active,0.93,2024-05-22
+Sophia,Davis,23,162.25,82.31,,Active,0.95,2024-09-22
+Riley,Williams,33,190.84,71.99,,Active,1.08,2024-06-22
+Peter,Miller,73,142.22,62.29,LAM,Active,-0.79,
+Sophia,Martin,30,141.7,72.29,AFK,Active,2.87,2024-09-22
+Henry,White,22,178.17,71.06,AFK,Active,0.29,2024-06-22
+Sophia,Jones,45,187.14,64.0,LAM,Active,-0.67,2024-05-22
+Jack,Williams,73,171.58,63.02,ECC,Not Active,-1.33,
+Grace,Martin,46,167.42,66.38,ECR,Active,-0.2,2024-07-22
+Charlie,Garcia,33,181.38,24.52,ECR,Active,-0.62,2024-08-22
+Quinn,Martinez,42,189.28,98.4,ECC,Not Active,-1.07,
+Isabella,Rodriguez,56,172.75,74.09,ECR,Not Active,1.17,2024-10-22
+Riley,Jones,45,171.64,66.17,LAM,Active,-0.48,2024-10-22
+Sophia,Miller,39,179.29,65.13,ECR,Active,-0.35,2024-06-22
+Thomas,Harris,69,149.12,63.68,ECR,Active,-0.04,2024-06-22
+Noah,Jones,25,166.4,70.3,LAM,Active,1.02,
+Isabella,Johnson,68,180.49,58.06,ECC,Active,1.24,2024-08-22
+Quinn,Moore,65,164.26,80.33,ECC,Transfering,0.35,2024-06-22
+Emily,Thomas,38,164.55,70.12,LAM,,1.76,
+Bob,Rodriguez,52,187.45,62.13,,Not Active,-0.01,
+Riley,Harris,77,149.9,66.32,,Active,1.27,2024-10-22
+Quinn,Smith,50,212.45,78.53,ECC,Not Active,-2.11,
+Grace,Garcia,58,192.04,61.84,LAM,Active,1.22,
+Sophia,Thomas,65,171.2,77.24,AFK,Not Active,-1.38,2024-07-22
+Alice,Johnson,36,167.84,68.33,,Not Active,0.21,2024-05-22
+Quinn,Smith,45,180.46,94.76,ECC,Active,0.59,
+Grace,Taylor,24,195.53,33.38,ECC,,-2.18,2024-09-22
+Bob,Martinez,57,161.97,34.66,LAM,Active,-1.75,2024-10-22
+Mia,Wilson,59,197.79,61.62,AFK,Active,1.27,2024-08-22
+Noah,Johnson,20,150.16,87.0,AFK,Not Active,1.48,2024-06-22
+Charlie,White,21,181.3,72.69,AFK,Active,0.6,2024-07-22
+Riley,Johnson,57,180.26,93.95,ECR,Not Active,-1.1,
+Alice,Anderson,47,210.19,84.26,ECC,Not Active,-0.72,2024-07-22
+Alice,Thompson,55,171.94,60.48,LAM,Not Active,-1.15,2024-07-22
+Peter,Brown,31,203.43,82.74,ECC,Active,-1.37,2024-07-22
+Noah,Thomas,35,157.76,65.08,,Active,-0.45,2024-09-22
+Thomas,Johnson,41,177.63,52.88,ECC,Active,0.49,2024-09-22
+Kate,Miller,40,169.95,64.6,ECC,Active,-1.0,2024-09-22
+Jack,Johnson,59,181.05,42.34,ECR,Active,0.5,2024-10-22
+Liam,Moore,65,162.51,95.09,AFK,Active,-1.86,
+Jack,Wilson,60,181.98,70.76,,Active,-1.45,2024-06-22
+Jack,Garcia,57,170.53,102.01,ECR,Active,-1.18,2024-07-22
+Jack,Wilson,24,202.87,78.87,ECR,Active,-0.96,2024-09-22
+Jack,Thomas,37,168.59,64.76,ECC,Active,-0.42,2024-09-22
+Jack,Thompson,73,162.57,41.65,AFK,Active,-0.08,2024-05-22
+Quinn,Moore,24,161.6,72.1,,Active,-1.47,2024-10-22
+Olivia,Harris,72,151.59,29.54,ECR,Active,0.02,
+Jack,Brown,72,140.04,71.96,,Not Active,-0.11,2024-07-22
+Sophia,Thompson,51,155.86,77.0,,Not Active,0.92,2024-10-22
+Frank,Taylor,31,173.77,71.95,AFK,Active,1.88,2024-09-22
+Noah,Jones,68,189.89,58.11,ECR,Active,-0.28,2024-06-22
+Jack,Anderson,26,165.07,83.6,,Active,1.17,
+Charlie,Miller,23,152.16,46.18,LAM,Active,1.21,2024-10-22
+Charlie,Martinez,69,140.28,75.47,ECC,Active,-0.43,2024-10-22
+Peter,Wilson,34,199.72,61.67,,Active,2.22,2024-05-22
+Emily,Smith,63,182.07,86.18,ECR,Active,-0.84,2024-10-22
+Henry,Harris,41,205.17,63.08,ECR,Active,0.25,2024-06-22
+Alice,Johnson,69,179.03,58.87,ECC,Active,-0.13,
+Sophia,Jackson,79,152.92,74.78,ECR,Active,-0.29,2024-08-22
+Liam,Rodriguez,46,168.67,80.1,AFK,Not Active,1.18,2024-05-22
+Noah,Rodriguez,64,179.72,82.46,ECC,Active,-1.22,2024-10-22
+Noah,Thompson,72,170.66,74.59,LAM,Active,0.96,
+Riley,Garcia,62,188.41,91.78,LAM,Active,0.08,2024-07-22
+Henry,Davis,41,138.95,79.05,AFK,Not Active,0.51,2024-09-22
+Quinn,Moore,45,157.41,69.26,,Not Active,-1.96,2024-07-22
+Riley,Thompson,80,196.09,91.97,LAM,Not Active,-0.71,2024-07-22
+Isabella,Martin,57,139.2,62.72,AFK,Active,1.63,2024-08-22
+Noah,Brown,47,128.27,88.98,,Active,-1.28,2024-06-22
+Charlie,Garcia,32,181.52,66.48,ECC,Active,-0.19,2024-07-22
+Riley,Garcia,56,156.28,39.45,ECR,Active,0.99,
+Frank,Miller,42,186.41,50.01,ECC,Active,1.72,2024-10-22
+Alice,Wilson,38,192.6,55.11,ECR,Active,-1.2,2024-06-22
+Charlie,Brown,48,150.36,56.45,LAM,Active,-1.49,2024-08-22
+Olivia,Jackson,37,211.03,76.53,LAM,,-2.42,
+Jack,Wilson,22,162.35,81.02,ECR,Active,-0.49,2024-06-22
+Liam,Jones,24,181.52,76.23,ECC,Not Active,0.67,
+Frank,Jackson,29,189.09,42.57,LAM,Active,0.96,
+Jack,Taylor,31,212.84,38.8,LAM,Active,1.19,2024-09-22
+Peter,Rodriguez,22,197.37,71.32,LAM,Active,0.46,2024-05-22
+Charlie,Williams,51,184.29,72.54,ECC,Active,0.31,2024-08-22
+Olivia,White,47,163.86,72.09,ECR,Not Active,0.13,2024-10-22
+Frank,Brown,32,158.26,77.97,ECC,Active,-0.87,2024-06-22
+Olivia,Martin,69,189.05,69.4,,Active,-1.56,2024-07-22
+Sophia,Wilson,43,147.78,77.84,ECC,Active,-1.44,2024-05-22
+Alice,Martin,69,151.14,70.36,,Active,-0.82,2024-08-22
+Jack,Jackson,66,184.98,95.72,,Active,0.11,2024-08-22
+Liam,Brown,64,151.51,69.56,,Active,-0.7,2024-09-22
+Henry,Smith,21,142.39,73.57,LAM,Not Active,2.12,2024-06-22
+Bob,Harris,79,147.74,51.26,ECC,Not Active,-1.62,2024-06-22
+Frank,Williams,74,149.78,49.43,AFK,Not Active,-0.07,2024-07-22
+Noah,Davis,47,198.83,60.5,AFK,Active,0.98,2024-06-22
+David,Garcia,34,164.41,80.64,LAM,Not Active,-0.87,2024-07-22
+Riley,Jackson,76,174.15,75.03,ECR,Active,1.33,
+Charlie,Taylor,50,180.06,109.38,ECR,Active,1.04,2024-08-22
+Thomas,Davis,47,163.22,69.54,ECC,Active,1.45,2024-08-22
+Olivia,Martinez,31,169.18,45.18,ECC,Active,-0.72,2024-07-22
+Peter,White,55,181.53,78.45,ECR,Active,-0.38,2024-05-22
+Olivia,Jones,71,182.42,61.32,LAM,Active,0.0,2024-07-22
+Alice,Jackson,32,227.3,82.77,ECR,Not Active,-0.57,2024-06-22
+Emily,Johnson,30,169.65,76.53,ECR,Transfering,0.64,2024-07-22
+Emily,Thomas,32,149.22,51.35,,Active,0.07,2024-07-22
+Grace,Thompson,46,196.57,35.4,ECC,Not Active,-2.34,2024-05-22
+Olivia,Jackson,26,182.28,63.96,ECR,Active,-0.5,2024-05-22
+Olivia,White,75,169.23,67.01,,Active,0.25,2024-10-22
+Charlie,Anderson,52,142.14,68.58,LAM,Active,-0.5,2024-06-22
+Noah,Rodriguez,40,192.2,42.26,ECC,Active,-0.3,2024-10-22
+Thomas,Taylor,43,176.51,52.12,LAM,Active,-2.13,2024-07-22
+Alice,Jones,65,166.94,63.61,ECC,Not Active,-1.41,2024-05-22
+Grace,Johnson,38,149.84,68.32,ECC,Not Active,-0.69,2024-05-22
+Sophia,Jones,28,180.42,50.29,ECC,Active,-0.83,2024-07-22
+Bob,Garcia,78,151.45,68.08,,Active,2.42,2024-07-22
+Charlie,White,26,181.39,42.73,,Active,-0.63,2024-05-22
+Noah,Johnson,48,133.39,68.0,ECR,Not Active,-0.27,
+Thomas,Brown,21,197.85,76.96,AFK,Active,0.9,2024-08-22
+Grace,White,49,164.11,61.51,AFK,Active,-0.13,2024-05-22
+Sophia,Miller,27,167.67,62.59,ECC,Active,-0.49,2024-09-22
+Olivia,Moore,72,155.78,54.59,AFK,Not Active,-1.02,2024-10-22
+Isabella,Garcia,50,153.35,65.95,AFK,Active,2.74,2024-07-22
+Emily,Johnson,30,177.02,74.58,ECC,Not Active,-2.78,2024-07-22
+Sophia,Garcia,78,166.53,63.18,AFK,Not Active,1.08,2024-07-22
+Thomas,Johnson,40,164.17,78.1,ECR,Active,0.29,2024-05-22
+Olivia,Brown,22,166.92,56.54,AFK,Active,0.5,
+Alice,Wilson,51,204.65,84.26,AFK,Not Active,1.51,2024-06-22
+Sophia,Miller,46,194.97,110.32,ECC,Not Active,-0.07,2024-08-22
+Isabella,Moore,26,167.82,83.05,ECR,Transfering,-1.24,2024-08-22
+Kate,Smith,40,150.48,53.67,ECC,Not Active,0.53,2024-05-22
+Quinn,Smith,37,171.07,78.51,LAM,Active,-0.47,2024-08-22
+Mia,White,23,144.5,67.22,,Active,1.94,2024-09-22
+Quinn,Wilson,78,182.82,57.46,ECC,Active,-0.56,
+Charlie,Miller,33,207.84,67.95,ECC,Active,-0.51,2024-10-22
+Sophia,Taylor,65,144.51,57.24,ECR,Active,-0.18,2024-05-22
+Peter,Harris,48,197.15,104.82,,Active,-2.04,2024-05-22
+Alice,Garcia,38,133.99,80.93,ECC,Active,0.82,2024-05-22
+Isabella,Jackson,60,171.64,67.3,ECC,Active,0.39,
+Olivia,Thomas,31,137.26,91.16,ECC,Active,-0.0,2024-08-22
+Alice,Brown,58,128.43,77.73,LAM,Active,2.23,2024-10-22
+Quinn,Williams,29,182.56,45.07,AFK,Active,-1.16,
+Frank,Smith,32,175.53,43.58,,Active,0.2,2024-10-22
+Thomas,Garcia,77,139.67,64.12,ECC,Active,1.27,2024-08-22
+Bob,White,70,130.39,76.44,LAM,Active,0.28,2024-09-22
+Sophia,Garcia,41,187.59,82.24,ECC,Active,-0.1,2024-10-22
+Bob,Martinez,47,206.91,75.07,ECR,Active,-0.05,
+Kate,Thomas,51,148.99,93.14,AFK,Active,0.54,2024-09-22
+Charlie,Anderson,80,207.09,64.27,ECR,Not Active,-2.03,
+Sophia,Wilson,57,165.21,24.69,,Active,0.01,2024-10-22
+Henry,White,72,149.83,88.0,,Active,-0.11,2024-06-22
+Henry,Moore,73,172.78,36.16,,Active,-1.54,2024-10-22
+Kate,White,51,208.18,77.36,AFK,Active,-1.12,2024-05-22
+Bob,Johnson,37,179.85,73.5,,Active,-0.85,2024-09-22
+Alice,Harris,66,173.6,66.66,LAM,Active,1.27,
+Emily,Taylor,52,139.82,83.92,,Active,-0.77,2024-06-22
+Henry,Martinez,63,155.95,75.22,ECC,Active,0.55,2024-06-22
+Liam,Wilson,79,174.76,80.09,ECR,Active,1.27,2024-09-22
+Jack,Davis,79,174.89,92.48,ECC,Active,-0.12,2024-05-22
+Kate,Johnson,46,160.8,71.15,,Active,0.49,2024-07-22
+Charlie,Johnson,43,182.4,51.88,LAM,Active,-0.01,2024-09-22
+Henry,Taylor,56,182.44,82.48,AFK,Active,1.1,2024-05-22
+Noah,Williams,75,192.74,52.46,,Active,0.34,2024-08-22
+Emily,Jackson,77,146.35,80.11,ECR,Active,-0.14,2024-09-22
+David,White,43,206.51,75.09,LAM,Active,1.57,2024-07-22
+Sophia,Martinez,35,153.21,58.53,LAM,Active,0.0,2024-08-22
+Peter,Thompson,30,195.55,61.77,ECR,Active,2.55,2024-08-22
+Noah,Williams,48,174.6,82.3,,Active,1.33,
+Riley,Miller,32,215.74,64.62,ECC,Active,-0.14,2024-05-22
+Alice,Rodriguez,40,201.89,90.77,ECC,Active,-1.97,2024-06-22
+Riley,Jones,37,179.05,96.73,,Transfering,0.34,2024-06-22
+Charlie,Moore,59,181.66,61.49,AFK,Not Active,0.68,2024-09-22
+Olivia,Thompson,31,138.58,96.69,ECR,Active,-1.1,
+David,Davis,50,192.9,86.0,LAM,Not Active,-0.95,
+Jack,Martinez,66,165.47,98.33,ECR,,-0.78,
+Kate,Johnson,64,194.07,70.99,ECC,Transfering,-1.0,2024-09-22
+Quinn,Smith,62,176.17,68.35,ECC,Active,-0.17,2024-06-22
+Sophia,Jackson,34,169.73,57.54,,,-0.39,2024-05-22
+Quinn,Harris,80,149.54,72.44,LAM,Active,0.41,2024-06-22
+Olivia,Johnson,67,208.65,70.27,LAM,Transfering,1.28,
+Quinn,Garcia,53,175.34,76.76,AFK,Not Active,-0.2,2024-08-22
+Frank,Davis,37,235.21,69.44,,Not Active,0.0,2024-06-22
+Peter,Smith,33,172.77,66.41,,Active,-0.3,2024-06-22
+Quinn,Wilson,45,174.93,61.43,ECC,Active,0.59,2024-05-22
+Alice,Harris,73,169.49,74.05,ECC,Active,0.89,2024-10-22
+Frank,Taylor,69,131.21,90.29,,Not Active,1.07,2024-10-22
+Kate,Garcia,20,151.46,76.0,ECR,Not Active,0.06,2024-06-22
+Olivia,Martinez,39,142.54,80.34,ECR,Active,0.45,2024-08-22
+Thomas,Jones,56,169.59,79.06,LAM,Active,-0.49,2024-06-22
+Olivia,Thompson,42,149.05,47.73,,Not Active,-0.24,2024-07-22
+Henry,Brown,31,166.0,75.96,AFK,,1.13,2024-10-22
+Isabella,Martinez,61,165.25,47.52,LAM,Active,0.22,2024-07-22
+Noah,Anderson,71,178.36,68.87,AFK,Active,-0.27,2024-05-22
+Kate,Moore,24,150.88,82.56,AFK,Not Active,-0.32,2024-06-22
+Emily,Anderson,32,190.17,47.93,AFK,Active,-0.42,2024-09-22
+Isabella,Wilson,58,178.77,54.65,AFK,Active,-0.83,2024-07-22
+Mia,Taylor,24,205.91,77.81,,Active,0.09,2024-05-22
+Liam,Brown,80,211.08,69.46,,Not Active,0.43,2024-07-22
+Riley,Davis,33,174.99,95.48,ECR,,1.28,2024-09-22
+Noah,Martin,61,181.13,50.62,AFK,Active,0.08,2024-07-22
+Kate,Thompson,39,202.85,76.15,AFK,Active,0.72,2024-07-22
+Olivia,Wilson,51,159.52,77.53,AFK,Not Active,-1.13,2024-07-22
+Emily,White,64,153.0,64.09,ECC,Active,0.97,
+David,Thompson,57,163.02,42.75,AFK,Active,0.59,2024-08-22
+Bob,Williams,57,166.15,72.34,ECC,Active,-0.11,
+Peter,Miller,48,165.82,57.24,ECC,,-0.28,2024-08-22
+Sophia,Martin,48,162.2,55.59,ECR,,-0.22,2024-05-22
+Isabella,Brown,68,206.8,66.54,AFK,Not Active,1.24,2024-07-22
+Mia,Anderson,29,167.31,77.09,ECC,Active,0.27,2024-07-22
+Alice,Taylor,39,156.11,78.21,LAM,Active,-1.19,2024-05-22
+Jack,Garcia,21,153.95,60.05,AFK,Active,0.45,2024-09-22
+Grace,Davis,40,202.63,99.1,ECC,Active,-0.19,2024-07-22
+Sophia,Brown,58,155.53,64.55,LAM,Active,-2.06,2024-06-22
+Liam,Miller,21,156.48,47.86,ECC,Not Active,-0.8,2024-06-22
+David,Harris,53,173.69,71.0,ECR,Not Active,-1.46,2024-05-22
+Liam,Jackson,74,194.99,60.77,ECC,Not Active,0.37,2024-09-22
+Thomas,Johnson,42,172.52,68.17,ECR,Active,1.51,2024-06-22
+Quinn,Johnson,27,161.12,69.94,LAM,Active,-0.55,
+Emily,Thomas,28,196.73,61.53,AFK,Active,0.24,2024-07-22
+Alice,Rodriguez,42,140.97,65.04,,Active,0.42,2024-06-22
+Frank,Jackson,27,166.4,91.91,,Transfering,-0.06,
+Isabella,Jones,66,170.1,62.94,LAM,Active,1.25,2024-07-22
+Grace,Harris,51,193.9,67.93,LAM,Active,-0.09,2024-08-22
+Jack,Garcia,71,145.15,83.68,ECC,Active,-0.05,2024-05-22
+Liam,Brown,33,184.2,49.64,ECR,Not Active,-0.84,2024-06-22
+Kate,Harris,35,118.72,68.71,AFK,Active,-0.07,2024-08-22
+Liam,Miller,77,174.03,86.5,LAM,Active,-1.15,2024-10-22
+Frank,Moore,74,174.5,72.07,,Active,0.72,
+Frank,Rodriguez,58,138.24,65.25,ECR,Not Active,0.96,
+Jack,Moore,67,167.07,88.02,AFK,,0.45,2024-07-22
+Thomas,White,43,147.01,75.77,ECC,Active,-0.36,
+Frank,Harris,63,142.77,75.74,LAM,Not Active,1.02,2024-10-22
+Henry,Wilson,50,143.83,50.83,ECC,Active,0.73,2024-08-22
+Peter,Wilson,68,136.24,69.8,LAM,Not Active,1.14,2024-06-22
+Quinn,Taylor,67,162.15,57.48,,Active,0.91,2024-06-22
+Riley,Martin,72,132.74,109.38,ECC,Active,0.37,2024-07-22
+Henry,Rodriguez,24,182.81,72.41,AFK,Active,-0.38,2024-09-22
+Sophia,Martinez,46,163.16,75.18,ECR,Active,-0.87,
+Isabella,Rodriguez,21,125.42,65.75,AFK,Active,0.42,2024-08-22
+Mia,Anderson,58,175.48,52.38,LAM,Active,1.57,2024-09-22
+Henry,Miller,28,175.16,63.18,LAM,Active,-0.42,2024-08-22
+Jack,Williams,32,180.46,82.2,ECC,Active,-0.19,2024-06-22
+Olivia,Jackson,46,172.18,74.61,AFK,Not Active,1.26,2024-06-22
+Quinn,Brown,49,180.65,61.08,ECR,Active,0.06,2024-08-22
+Alice,Jackson,45,189.91,65.47,LAM,Not Active,0.28,
+Frank,Brown,28,146.56,83.16,ECC,Active,-0.68,2024-06-22
+Liam,Wilson,42,184.34,61.52,ECR,Active,-1.09,2024-10-22
+Quinn,Jones,56,174.38,69.3,,Not Active,-1.69,2024-07-22
+Isabella,White,45,177.84,63.77,AFK,,0.43,2024-06-22
+Sophia,Davis,54,154.89,42.43,,Active,-0.71,2024-07-22
+Frank,Miller,39,192.37,52.8,ECC,Active,-1.71,2024-09-22
+Liam,Davis,65,180.9,62.85,ECR,Active,-0.1,2024-09-22
+Thomas,Anderson,29,159.25,58.27,ECC,Active,0.29,2024-06-22
+Peter,Miller,55,190.87,62.42,,Active,-0.56,2024-06-22
+Sophia,Garcia,39,191.58,66.7,ECC,Active,0.16,2024-08-22
+Peter,Martinez,36,170.06,61.77,AFK,Active,-0.63,2024-05-22
+Liam,White,76,211.6,91.78,ECC,Active,0.17,
+Grace,Thompson,80,142.24,74.66,LAM,Active,0.31,2024-09-22
+Charlie,Jones,54,186.71,55.98,AFK,Not Active,1.06,2024-06-22
+Bob,Taylor,55,194.26,81.66,,Not Active,2.31,2024-09-22
+Isabella,Davis,43,191.01,89.67,ECC,Active,0.19,2024-05-22
+Mia,Miller,25,212.62,66.64,ECR,Active,-0.04,2024-06-22
+Grace,Jackson,43,164.05,79.29,,Active,-0.12,2024-07-22
+Liam,Taylor,44,166.71,37.05,,,1.01,2024-10-22
+Olivia,Jones,61,183.44,66.02,LAM,,-0.38,2024-07-22
+Olivia,Martin,27,177.42,79.11,ECR,Transfering,-1.85,2024-07-22
+Isabella,Smith,37,181.35,67.18,ECR,,0.53,
+Bob,Anderson,27,197.89,57.89,AFK,Active,-1.14,2024-09-22
+Isabella,Thomas,59,174.41,73.61,LAM,Active,-2.35,2024-06-22
+Isabella,Anderson,25,187.92,72.41,ECR,Active,0.45,2024-05-22
+Bob,White,76,174.02,50.06,LAM,Active,0.01,
+Kate,Smith,73,142.8,90.97,AFK,Active,-1.38,2024-09-22
+Sophia,Williams,74,164.76,88.52,,Not Active,1.78,2024-05-22
+Henry,Martinez,80,159.05,62.5,AFK,Active,-0.27,2024-08-22
+Thomas,Harris,35,206.01,60.86,ECC,Active,0.08,2024-09-22
+Olivia,Martin,55,187.15,69.5,AFK,Active,0.83,2024-08-22
+Charlie,Miller,22,157.1,69.1,AFK,Not Active,-0.28,2024-05-22
+Isabella,Thompson,80,172.58,62.62,ECC,Transfering,1.35,2024-09-22
+Henry,Harris,56,188.87,86.41,ECC,Active,-1.15,2024-08-22
+Grace,Jones,31,176.14,66.57,AFK,Active,0.73,2024-06-22
+Isabella,Jackson,26,178.08,90.7,ECC,Active,-0.29,2024-06-22
+Liam,Johnson,30,186.27,99.36,LAM,Active,-1.07,2024-08-22
+Grace,Harris,75,141.99,50.79,LAM,Active,-0.39,2024-06-22
+Emily,Jones,64,189.61,42.12,LAM,Not Active,0.64,2024-05-22
+Sophia,Harris,44,166.36,46.2,ECR,Active,-0.34,2024-05-22
+Liam,Smith,30,125.63,63.91,LAM,Active,-0.43,2024-08-22
+Quinn,Smith,51,149.53,42.46,AFK,Active,-1.78,2024-08-22
+Kate,Martinez,28,160.67,92.47,ECC,Active,-0.49,2024-07-22
+Thomas,Martinez,50,155.1,66.25,,Active,1.4,2024-08-22
+Jack,Johnson,46,198.65,100.02,LAM,Not Active,-0.19,2024-06-22
+Jack,Jackson,54,173.34,72.17,ECC,Transfering,-1.29,2024-07-22
+Bob,Williams,43,195.12,95.03,AFK,Active,1.41,2024-07-22
+Isabella,Moore,46,155.07,71.37,LAM,,1.19,2024-10-22
+Isabella,Brown,77,186.77,89.49,ECR,Transfering,1.48,2024-05-22
+David,Martin,41,195.44,84.15,LAM,Active,-0.4,2024-06-22
+David,Anderson,50,170.1,59.73,AFK,Active,2.12,2024-07-22
+Charlie,Martin,50,174.34,60.17,LAM,Active,0.86,2024-08-22
+Charlie,Wilson,76,149.47,96.96,,Active,0.14,2024-07-22
+Isabella,Wilson,63,149.13,85.63,AFK,Active,2.03,2024-10-22
+Kate,Rodriguez,31,128.6,71.71,AFK,Active,-1.98,2024-08-22
+Kate,Thomas,39,137.07,95.93,LAM,Active,0.32,2024-10-22
+Charlie,Rodriguez,40,213.03,77.69,ECC,Not Active,0.76,2024-06-22
+Henry,Brown,42,177.51,69.4,ECR,Not Active,1.1,2024-06-22
+Alice,Miller,35,158.61,54.06,AFK,Active,1.08,
+Charlie,Thompson,48,197.58,42.55,ECR,Not Active,-0.59,2024-09-22
+Frank,Johnson,71,153.34,77.25,LAM,Active,0.1,
+Emily,Martinez,20,186.46,62.17,ECR,Active,0.39,
+Peter,Moore,61,166.29,68.04,ECR,Not Active,-1.63,2024-10-22
+Mia,Williams,75,182.54,78.5,AFK,Active,-0.36,2024-10-22
+Emily,Martinez,65,165.6,68.27,,Transfering,1.12,2024-06-22
+Sophia,Thomas,40,190.42,82.92,ECR,Not Active,2.94,2024-09-22
+Sophia,Davis,47,152.75,80.18,ECC,Not Active,-0.83,
+Sophia,Johnson,25,189.09,66.91,,Active,0.04,2024-08-22
+Liam,Jones,49,154.02,58.58,,Active,0.6,2024-10-22
+Riley,Johnson,22,153.21,52.14,LAM,Active,-0.01,2024-09-22
+Grace,Martin,54,173.69,70.41,AFK,Active,1.46,2024-07-22
+Bob,Wilson,41,184.65,58.67,ECR,Active,-0.45,2024-07-22
+Alice,Davis,41,188.32,52.57,LAM,Active,0.32,
+Sophia,Jones,79,182.3,57.71,ECC,Active,0.62,2024-07-22
+Noah,Brown,34,182.06,91.97,AFK,Not Active,-1.21,2024-08-22
+Emily,Smith,42,196.63,79.41,,Active,-1.05,2024-10-22
+Henry,Rodriguez,61,167.02,61.27,LAM,Not Active,0.3,
+Frank,Taylor,80,189.87,94.83,,Active,-0.17,2024-07-22
+Isabella,Brown,21,167.43,66.21,LAM,Active,-2.29,2024-05-22
+Peter,Wilson,42,202.56,79.75,ECR,Active,1.1,2024-09-22
+Quinn,Moore,67,166.14,76.67,LAM,Transfering,0.74,2024-09-22
+Peter,Anderson,56,164.75,87.59,LAM,Transfering,-0.33,2024-08-22
+Mia,Thomas,40,168.05,51.47,AFK,Not Active,-1.4,2024-10-22
+Riley,Smith,20,187.28,68.23,ECR,Active,-1.27,2024-09-22
+Sophia,Thompson,34,161.38,39.45,LAM,Active,0.09,2024-05-22
+David,Johnson,58,198.81,83.0,,Not Active,1.81,2024-07-22
+Henry,Jackson,73,164.44,82.12,ECR,Active,0.04,2024-08-22
+Grace,Jones,27,157.66,40.64,ECR,Active,-0.04,
+Henry,White,58,168.04,64.74,ECC,Active,0.31,2024-05-22
+Thomas,Miller,36,141.99,72.13,LAM,Not Active,0.51,2024-05-22
+David,Miller,52,131.58,83.08,ECR,Active,1.52,2024-06-22
+Riley,Jackson,28,132.95,72.51,,Active,0.99,2024-05-22
+Olivia,Taylor,47,116.72,49.21,,Transfering,0.49,2024-10-22
+Henry,Anderson,35,168.28,71.66,AFK,Not Active,0.09,2024-05-22
+Riley,Jackson,55,163.99,53.59,LAM,Active,-0.9,2024-05-22
+Olivia,Anderson,25,190.94,88.11,AFK,Active,1.2,2024-05-22
+Sophia,Harris,55,164.84,73.35,AFK,Not Active,-0.26,2024-08-22
+Alice,Moore,79,131.08,111.38,,Not Active,0.15,2024-08-22
+Jack,Davis,38,213.8,55.09,ECR,Not Active,1.55,2024-07-22
+Olivia,Moore,33,183.33,53.37,ECR,Active,-0.14,2024-05-22
+Mia,Brown,72,139.67,70.36,AFK,Active,-0.03,2024-06-22
+Bob,Moore,43,163.59,78.56,AFK,Active,0.14,2024-08-22
+Isabella,Taylor,71,145.34,75.3,ECC,Active,1.48,2024-10-22
+Jack,Martinez,60,179.7,72.1,AFK,Not Active,-0.78,2024-07-22
+Frank,White,52,157.73,91.2,,Not Active,-0.41,
+Bob,Williams,48,190.87,47.92,ECR,,0.04,2024-07-22
+Grace,Davis,30,142.59,84.07,ECC,Active,1.41,2024-08-22
+Alice,Garcia,44,183.23,97.76,LAM,Not Active,-0.2,2024-08-22
+Peter,Martinez,78,198.77,95.82,LAM,Active,1.26,2024-09-22
+Kate,White,55,176.52,55.42,,Active,-1.82,2024-08-22
+Mia,Anderson,28,206.52,83.78,ECC,Active,-0.11,2024-05-22
+Bob,Thomas,21,155.46,70.68,AFK,Not Active,0.74,2024-07-22
+Frank,Rodriguez,53,158.11,88.3,ECR,Transfering,0.45,2024-08-22
+Alice,Anderson,62,159.58,69.88,,Active,-0.18,2024-10-22
+Thomas,Davis,45,173.62,59.61,,Active,0.5,2024-09-22
+Frank,Martin,37,190.06,75.7,AFK,Active,3.15,2024-09-22
+Charlie,Jackson,31,153.96,91.73,,Active,-0.96,2024-05-22
+Grace,Harris,23,180.93,46.38,,Active,0.99,2024-08-22
+David,Smith,80,161.55,87.44,ECR,Active,-1.89,2024-08-22
+Grace,Davis,73,143.85,54.04,LAM,Active,-0.41,2024-10-22
+Mia,Martin,57,176.78,43.79,ECC,Active,-1.63,2024-06-22
+Riley,Williams,51,137.1,79.32,,Active,-0.49,2024-05-22
+Charlie,White,53,177.24,86.09,AFK,Active,0.01,
+Kate,Thomas,20,188.65,80.28,ECR,Transfering,0.9,2024-07-22
+Emily,Thomas,70,144.1,61.14,LAM,Active,-0.43,2024-05-22
+Emily,Anderson,27,151.21,120.2,,,-0.01,2024-06-22
+Thomas,Johnson,46,189.97,71.31,,Active,-0.08,2024-07-22
+Charlie,Brown,75,171.07,48.23,ECR,Active,0.24,2024-10-22
+Grace,Taylor,73,152.85,73.45,ECC,Active,0.73,2024-09-22
+Bob,Anderson,73,177.25,89.94,AFK,Active,1.07,2024-06-22
+Thomas,Jackson,75,153.73,78.3,ECR,,-1.01,2024-05-22
+Mia,Brown,45,201.91,81.13,ECC,Active,0.17,2024-07-22
+David,White,59,166.64,80.74,ECR,Not Active,-0.79,2024-06-22
+Sophia,Garcia,59,144.22,83.79,ECR,Not Active,-0.89,2024-06-22
+Noah,Wilson,34,173.59,76.03,LAM,Active,0.26,2024-07-22
+Jack,Taylor,68,151.74,76.74,ECR,,0.38,2024-07-22
+David,Martinez,44,196.46,43.16,ECC,Active,3.13,2024-07-22
+Riley,Johnson,41,174.23,59.95,LAM,,-0.21,2024-10-22
+Riley,White,36,147.39,102.25,AFK,Not Active,1.23,2024-06-22
+Thomas,Williams,45,144.13,93.41,AFK,Not Active,0.42,2024-07-22
+Frank,Thomas,43,193.89,66.94,AFK,Active,0.43,2024-06-22
+Frank,Jackson,80,153.42,72.42,ECC,Not Active,1.3,2024-05-22
+Thomas,Rodriguez,32,140.97,55.28,,Active,1.83,
